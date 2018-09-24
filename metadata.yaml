@@ -1,6 +1,9 @@
 _repo: Liian-paljon-kultaa_56672
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The faith of men. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: London, Jack
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/120
     wikipedia: http://en.wikipedia.org/wiki/Jack_London
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56672#Liian-paljon-kultaa
 gutenberg_issued: '2018-03-03'
 gutenberg_type: Text
 identifiers:
